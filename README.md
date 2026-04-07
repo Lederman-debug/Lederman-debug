@@ -25,12 +25,6 @@
 
 Soy **Técnico Superior en Informática** con sólidos conocimientos en programación de sistemas y aplicaciones de alto rendimiento. Mi enfoque principal es **C y C++**, aplicados especialmente al mundo de los sistemas embebidos con **ESP32** y **FreeRTOS**.
 
-- 🔭 Actualmente trabajando en: **Proyectos de IoT y automatización con ESP32**
-- 🌱 Aprendiendo: **Rust** y **optimización de memoria en tiempo real**
-- 👯 Busco colaborar en: Proyectos de **código abierto** relacionados con sistemas embebidos, IoT o herramientas de línea de comandos
-- 💬 Pregúntame sobre: **C, C++, FreeRTOS, ESP32 y programación de sistemas**
-- ⚡ Dato curioso: Depuré un segmentation fault que llevaba 3 días abierto y resultó ser un `free()` doble 😅
-
 ---
 
 ### 🛠️ Tecnologías y herramientas

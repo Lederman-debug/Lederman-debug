@@ -1,5 +1,5 @@
 # Lederman-debug
-<!-- Nuevo encabezado sin SVG animado, con badges de ESP32 y Arduino -->
+
 <h1 align="center">
   <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
@@ -7,12 +7,6 @@
   Técnico Superior en Informática | C/C++ | Sistemas Embebidos
 </h1>
 
-<!-- Imagen de un ESP32 real (opcional, pero muy visual) -->
-<p align="center">
-  <img src="https://randomnerdtutorials.com/wp-content/uploads/2018/08/ESP32-pinout-1.png" width="400" alt="ESP32" />
-</p>
-
-<!-- Resto del perfil igual que antes, pero sin estadísticas ni otras tecnologías -->
 <p align="center">
   <img src="https://img.shields.io/badge/Código-Limpio-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Memoria-Gestionada-success?style=flat-square" />
@@ -24,7 +18,6 @@
 ### 👋 Sobre mí
 
 Soy **Técnico Superior en Informática** con sólidos conocimientos en programación de sistemas y aplicaciones de alto rendimiento. Mi enfoque principal es **C y C++**, aplicados especialmente al mundo de los sistemas embebidos con **ESP32** y **FreeRTOS**.
-
 ---
 
 ### 🛠️ Tecnologías y herramientas
@@ -61,16 +54,12 @@ Soy **Técnico Superior en Informática** con sólidos conocimientos en programa
 
 ### 📌 Proyectos destacados
 
-Estos son algunos de mis proyectos con ESP32 y C/C++:
-
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
 | **[ESP32](https://github.com/Lederman-debug/ESP32)** | Dos LEDs parpadeando alternadamente. Mi primera práctica con FreeRTOS en Wokwi. | `C`, `FreeRTOS`, `ESP32` |
 | **[Control LED RGB](https://github.com/Lederman-debug/esp32-rgb-led)** | Control básico de LED RGB con ESP32. Práctica en Wokwi. | `C`, `ESP32` |
 | **[Visualizador Tasas de Cambio](https://github.com/Lederman-debug/Visualizador-de-Tasas-de-Cambio-con-ESP32-y-LCD)** | Muestra tasas de cambio (Dólar BCV, Euro, Paralelo) en una pantalla LCD 20x4. | `C++`, `ESP32`, `LCD I2C` |
 | **[Matriz de Cotizaciones](https://github.com/Lederman-debug/Matriz-Cotizaciones-ESP32)** | Visualización de cotizaciones en una matriz de LEDs con ESP32. | `C++`, `ESP32` |
-
-> 🔹 *Puedes anclar estos repositorios directamente desde tu perfil para que aparezcan justo debajo de tu README.*
 
 ---
 
@@ -83,7 +72,7 @@ Estos son algunos de mis proyectos con ESP32 y C/C++:
 
 ---
 
-### 🧠 Frase que me define
+### 🧠 Frase:
 
 > *"El rendimiento no es un accidente, es el resultado de entender cada byte y cada ciclo de reloj."*
 
